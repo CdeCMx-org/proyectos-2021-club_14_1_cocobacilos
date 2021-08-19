@@ -7,6 +7,7 @@ análisis clínico (ensayo)
 *Investigar papers con ensayos clinicos
  
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of perrito](https://t2.ea.ltmcdn.com/es/images/9/7/5/nombres_para_perros_originales_y_bonitos_5579_orig.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

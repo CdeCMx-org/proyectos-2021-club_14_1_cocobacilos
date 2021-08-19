@@ -33,6 +33,7 @@ Syntax highlighted code block
 [Link](url) and ![](![1b32f3082e79219532528d5c4ca9c733](https://user-images.githubusercontent.com/88797011/130008874-a8953ea4-e3cf-4a0b-8fa2-ab7e2eff2ca7.jpg)
 )
 ```
+ <img src="![1b32f3082e79219532528d5c4ca9c733](https://user-images.githubusercontent.com/88797011/130009077-35b80365-2c47-4e2f-873f-121431206b21.jpg)" width=200>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

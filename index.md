@@ -1,3 +1,5 @@
+![Image of chem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ27f9nyiS8nhQcV3Mi_6MEVf4lZjIHAPQ7UadKMq7euhj4QUeciqrpAeNFpCFIdr88U8&usqp=CAU)
+
 ## Welcome to GitHub Pages HOLA A TODOS :)
 
 You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_14_1_cocobacilos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -6,7 +8,7 @@ metodología
 análisis clínico (ensayo)
 *Investigar papers con ensayos clinicos
  
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ![Image of perrito](https://t2.ea.ltmcdn.com/es/images/9/7/5/nombres_para_perros_originales_y_bonitos_5579_orig.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

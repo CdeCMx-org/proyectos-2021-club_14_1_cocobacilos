@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
 
 <html>
   <head>
-    <link rel="stylesheet" href=https://fonts.googleapis.com/css2?family=Rampart+One&display=swap>;
+    <link rel="stylesheet" href=https://fonts.googleapis.com/css2?family=Rampart+One&display=swap>
     <style>
       body {
         font-size: 25px;
@@ -19,7 +19,7 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
   </body>
 </html>
 
-![Image of logo](https://www.canva.com/design/DAEmGDh_xrM/P9isQfdpfHCCs5I0clRieg/view?utm_content=DAEmGDh_xrM&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+![Image of logo](https://www.canva.com/design/DAEmGDh_xrM/P9isQfdpfHCCs5I0clRieg/view?website#1)
 
 CLUBERO ROCKSTAR | ¿QUÉ HACEMOS? | 10/10
 ------------ | ------------- | -------------
@@ -60,12 +60,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-[Link](url) and ![](![1b32f3082e79219532528d5c4ca9c733](https://user-images.githubusercontent.com/88797011/130008874-a8953ea4-e3cf-4a0b-8fa2-ab7e2eff2ca7.jpg)
-)
-```
- <img src="![1b32f3082e79219532528d5c4ca9c733](https://user-images.githubusercontent.com/88797011/130009077-35b80365-2c47-4e2f-873f-121431206b21.jpg)" width=2000>
- <img src="![nombres_para_perros_originales_y_bonitos_5579_orig](https://user-images.githubusercontent.com/88797011/130009307-fb1343a5-fb61-4c48-add7-3dfafb8d4ce1.jpg)" width=2000>
 
 <img src="https://t2.ea.ltmcdn.com/es/images/9/7/5/nombres_para_perros_originales_y_bonitos_5579_orig.jpg" width=200>
 

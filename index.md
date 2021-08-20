@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
 <img src="https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png" width=350>
 
 
-*CLUBERO ROCKSTAR* | *¿QUÉ HACEMOS?* | 10/10*
+_CLUBERO ROCKSTAR_ | _¿QUÉ HACEMOS?_ | _10/10_
 ------------ | ------------- | -------------
 *Hazel* | Estudiante de Medicina, Rockstar en las enfermedades y nuestra líder :heart_eyes::sunglasses: | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-medical-19.png" width=100>
 *Marín* | Estudiante de Bachillerato, el bebé Rockstar del team :sunglasses::speak_no_evil: | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-13.png" width=100>
@@ -26,7 +26,7 @@ Para este proyecto elegimos un tema bastante interesante. ¿Quieres saber más? 
     <style>
       body {
         font-family: 'Rampart One', cursive;
-        font-size: 48px;
+        font-size: 20px;
       }
     </style>
   </head>
@@ -34,6 +34,8 @@ Para este proyecto elegimos un tema bastante interesante. ¿Quieres saber más? 
     <div>VIRUS DEL PAPILOMA HUMANO</div>
   </body>
 </html>
+
+
 ## Welcome to GitHub Pages HOLA A TODOS :)
 
 

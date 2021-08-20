@@ -8,9 +8,9 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
 
 _CLUBERO ROCKSTAR_ | _¿QUÉ HACEMOS?_ | _10/10_
 ------------ | ------------- | -------------
-*Hazel* | Estudiante de Medicina, Rockstar en las enfermedades y nuestra líder :heart_eyes: :sunglasses: | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-medical-19.png" width=100>
-*Marín* | Estudiante de Bachillerato, el bebé Rockstar del team :sunglasses: :speak_no_evil: | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-13.png" width=100>
-*Jess* | Estudiante de Ingeniería de Bioprocesos, aprendiendo a ser Rockstar en programación :speak_no_evil: :nerd_face: | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-18.png" width=100>
+*Hazel* | Estudiante de Medicina, Rockstar en las enfermedades y nuestra líder  | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-medical-19.png" width=100>
+*Marín* | Estudiante de Bachillerato, el bebé Rockstar del team  | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-13.png" width=100>
+*Jess* | Estudiante de Ingeniería de Bioprocesos, aprendiendo a ser Rockstar en programación | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-18.png" width=100>
 
 
 ## Estamos encantados de poder compartir esta edición de Clubes de Ciencia México 2021 

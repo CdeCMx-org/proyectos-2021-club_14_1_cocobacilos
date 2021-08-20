@@ -1,4 +1,8 @@
-## COCOBACILOS
+You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_14_1_cocobacilos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rampart+One&display=swap" rel="stylesheet">
 ¿Quiénes somos?
 CLUBERO ROCKSTAR | ¿QUÉ HACEMOS? | 10/10
 ------------ | ------------- | -------------
@@ -11,7 +15,6 @@ Jess | Estudiante de Ingeniería de Bioprocesos, aprendiendo a ser Rockstar en p
 
 ## Welcome to GitHub Pages HOLA A TODOS :)
 
-You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_14_1_cocobacilos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 metodología 
 análisis clínico (ensayo)

@@ -27,7 +27,7 @@ Hazel | Estudiante de Medicina, Rockstar en las enfermedades y nuestra líder :h
 Marín | Estudiante de Bachillerato, el bebé Rockstar del team :sunglasses::speak_no_evil: | FALTA FOTO
 Jess | Estudiante de Ingeniería de Bioprocesos, aprendiendo a ser Rockstar en programación :speak_no_evil::nerd_face: | FALTA FOTO
 
-![Image of logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ27f9nyiS8nhQcV3Mi_6MEVf4lZjIHAPQ7UadKMq7euhj4QUeciqrpAeNFpCFIdr88U8&usqp=CAU)
+
 
 ## Welcome to GitHub Pages HOLA A TODOS :)
 

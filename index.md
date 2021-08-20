@@ -31,11 +31,12 @@ Realizar una modificación en la iniciativa que reforma los artículos 157 BIS d
 **¿Qué tenemos en mente?**
 
 Proponemos que la aplicación de la vacuna contra el virus del papiloma humano incluya también a los niños  de quinto grado de primaria (11 años) hasta adolescentes de 18 años.
+
 <img src="https://elcomercio.pe/resizer/AlcGJ1AVEdjL-MrJRZ8--kZtdDE=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VYQPVM2HM5H7RKYICAXS5RDHSA.jpg" width=200> <img src="https://anmdecolombia.org.co/wp-content/uploads/2021/04/vacunaci%C3%B3n-covid-19-ni%C3%B1os-adolescentes.jpeg" width=200>
 
 ### INTRODUCCIÓN
 
-El virus del papiloma humano (VPH) en la actualidad es una de las infecciones de transmisión sexual más común y fue en el año de 1983, que los resultados de un grupo de investigación del Instituto de Virología de la Universidad de Friburgo descubrieron **la asociación entre el VPH y el desarrollo de cáncer cervicouterino (CaCu).**
+El virus del papiloma humano (VPH) en la actualidad es una de las infecciones de transmisión sexual más común y fue en el año de 1983, que los resultados de un grupo de investigación del Instituto de Virología de la Universidad de Friburgo descubrieron **la asociación entre el VPH y el desarrollo de cáncer cervicouterino (CaCu).**  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Siegel_der_Albert-Ludwigs-Universit%C3%A4t_Freiburg.svg/150px-Siegel_der_Albert-Ludwigs-Universit%C3%A4t_Freiburg.svg.png" width=100
 
 En México, de acuerdo con datos de Globocan, 
 
@@ -45,9 +46,7 @@ En México, de acuerdo con datos de Globocan,
 
 
 
-metodología 
-análisis clínico (ensayo)
-*Investigar papers con ensayos clinicos
+
  
 
 ![Image of perrito](https://t2.ea.ltmcdn.com/es/images/9/7/5/nombres_para_perros_originales_y_bonitos_5579_orig.jpg)

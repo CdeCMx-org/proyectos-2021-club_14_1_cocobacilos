@@ -7,18 +7,13 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
     <link rel="stylesheet" href=https://fonts.googleapis.com/css2?family=Rampart+One&display=swap>
     <style>
       body {
-        font-size: 48px;
+        font-size: 30px;
       }
       div:nth-child(1) {
         font-family: 'Rampart One', cursive;
       }
     </style>
-  </head>
-  <body>
-    <div>COCOBACILOS</div>
-  </body>
-</html>
-
+##¿QUIÉNES SOMOS?
 ![Image of logo](https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png)
 
 

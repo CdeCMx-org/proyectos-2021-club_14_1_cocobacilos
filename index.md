@@ -2,8 +2,9 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
-</style>
 ##:yellow_heart:COCOBACILOS:yellow_heart:
+</style>
+
 
 
 //

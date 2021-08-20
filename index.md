@@ -37,7 +37,9 @@ Proponemos que la aplicación de la vacuna contra el virus del papiloma humano i
 
 El virus del papiloma humano (VPH) en la actualidad es una de las infecciones de transmisión sexual más común y fue en el año de 1983, que los resultados de un grupo de investigación del Instituto de Virología de la Universidad de Friburgo descubrieron **la asociación entre el VPH y el desarrollo de cáncer cervicouterino (CaCu).**
 
-En México, de acuerdo con datos de Globocan, **durante 2018 hubo más de 7 mil 800 casos nuevos de cáncer cervicouterino y más de 4 mil 100 defunciones** por esta causa.
+En México, de acuerdo con datos de Globocan, 
+
+> **durante 2018 hubo más de 7 mil 800 casos nuevos de cáncer cervicouterino y más de 4 mil 100 defunciones** por esta causa.
 
 
 

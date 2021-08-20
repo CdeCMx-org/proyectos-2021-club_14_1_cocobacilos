@@ -3,16 +3,14 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
 
 ##¿QUIÉNES SOMOS?
 
-![Image of logo](https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png)
-
-<img src="https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png" width=200>
+<img src="https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png" width=350>
 
 
 CLUBERO ROCKSTAR | ¿QUÉ HACEMOS? | 10/10
 ------------ | ------------- | -------------
-Hazel | Estudiante de Medicina, Rockstar en las enfermedades y nuestra líder :heart_eyes::sunglasses: | FALTA FOTO
-Marín | Estudiante de Bachillerato, el bebé Rockstar del team :sunglasses::speak_no_evil: | FALTA FOTO
-Jess | Estudiante de Ingeniería de Bioprocesos, aprendiendo a ser Rockstar en programación :speak_no_evil::nerd_face: | FALTA FOTO
+Hazel | Estudiante de Medicina, Rockstar en las enfermedades y nuestra líder :heart_eyes::sunglasses: | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-medical-19.png" width=100>
+Marín | Estudiante de Bachillerato, el bebé Rockstar del team :sunglasses::speak_no_evil: | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-13.png" width=100>
+Jess | Estudiante de Ingeniería de Bioprocesos, aprendiendo a ser Rockstar en programación :speak_no_evil::nerd_face: | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-18.png" width=100>
 
 
 

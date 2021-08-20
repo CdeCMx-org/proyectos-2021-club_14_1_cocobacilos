@@ -12,14 +12,10 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
       div:nth-child(1) {
         font-family: 'Rampart One', cursive;
       }
-      div:nth-child(2) {
-        font-family: 'Literata’, serif;
-      }
     </style>
   </head>
   <body>
     <div>COCOBACILOS</div>
-    <div>¿Quiénes somos?</div>
   </body>
 </html>
 

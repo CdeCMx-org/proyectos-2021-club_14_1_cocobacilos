@@ -1,7 +1,12 @@
 //
 You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_14_1_cocobacilos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-## ¿QUIÉNES SOMOS?
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+# ¿QUIÉNES SOMOS?
 
 <img src="https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png" width=350>
 
@@ -24,10 +29,15 @@ Para este proyecto elegimos un tema bastante interesante. ¿Quieres saber más? 
 Realizar una modificación en la iniciativa que reforma los artículos 157 BIS de la Ley General de Salud y el artículo 50 de la ley general de los derechos de niñas, niños y adolescentes.
 
 **¿Qué tenemos en mente?**
+
 Proponemos que la aplicación de la vacuna contra el virus del papiloma humano incluya también a los niños  de quinto grado de primaria (11 años) hasta adolescentes de 18 años.
 <img src="https://elcomercio.pe/resizer/AlcGJ1AVEdjL-MrJRZ8--kZtdDE=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VYQPVM2HM5H7RKYICAXS5RDHSA.jpg" width=200> <img src="https://anmdecolombia.org.co/wp-content/uploads/2021/04/vacunaci%C3%B3n-covid-19-ni%C3%B1os-adolescentes.jpeg" width=200>
 
+### INTRODUCCIÓN
 
+El virus del papiloma humano (VPH) en la actualidad es una de las infecciones de transmisión sexual más común y fue en el año de 1983, que los resultados de un grupo de investigación del Instituto de Virología de la Universidad de Friburgo descubrieron **la asociación entre el VPH y el desarrollo de cáncer cervicouterino (CaCu).**
+
+En México, de acuerdo con datos de Globocan, **durante 2018 hubo más de 7 mil 800 casos nuevos de cáncer cervicouterino y más de 4 mil 100 defunciones** por esta causa.
 
 
 

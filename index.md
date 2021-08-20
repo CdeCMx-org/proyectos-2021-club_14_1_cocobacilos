@@ -8,7 +8,7 @@ As Kanye West said:
 
 # ¿QUIÉNES SOMOS?
 
-<img src="https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png" width=450>
+                           <img src="https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png" width=450>
 
 
 _CLUBERO ROCKSTAR_ | _¿QUÉ HACEMOS?_ | _10/10_
@@ -19,7 +19,7 @@ _CLUBERO ROCKSTAR_ | _¿QUÉ HACEMOS?_ | _10/10_
 
 
 ## Estamos encantados de poder compartir esta edición de Clubes de Ciencia México 2021 
-<img src="https://user-images.githubusercontent.com/88797011/130247755-d3891cd8-d4f3-4a3b-8718-e35b60a9006c.png" width=200>
+                        <img src="https://user-images.githubusercontent.com/88797011/130247755-d3891cd8-d4f3-4a3b-8718-e35b60a9006c.png" width=200>
 
 Para este proyecto elegimos un tema bastante interesante. ¿Quieres saber más? Sigue leyendo!! 
 
@@ -36,7 +36,8 @@ Proponemos que la aplicación de la vacuna contra el virus del papiloma humano i
 
 ### INTRODUCCIÓN
 
-El virus del papiloma humano (VPH) en la actualidad es una de las infecciones de transmisión sexual más común y fue en el año de 1983, que los resultados de un grupo de investigación del Instituto de Virología de la Universidad de Friburgo descubrieron **la asociación entre el VPH y el desarrollo de cáncer cervicouterino (CaCu).**  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Siegel_der_Albert-Ludwigs-Universit%C3%A4t_Freiburg.svg/150px-Siegel_der_Albert-Ludwigs-Universit%C3%A4t_Freiburg.svg.png" width=100>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Siegel_der_Albert-Ludwigs-Universit%C3%A4t_Freiburg.svg/150px-Siegel_der_Albert-Ludwigs-Universit%C3%A4t_Freiburg.svg.png" width=100>
+El virus del papiloma humano (VPH) en la actualidad es una de las infecciones de transmisión sexual más común y fue en el año de 1983, que los resultados de un grupo de investigación del Instituto de Virología de la Universidad de Friburgo descubrieron **la asociación entre el VPH y el desarrollo de cáncer cervicouterino (CaCu).**
 
 En México, de acuerdo con datos de Globocan, 
 

@@ -4,10 +4,32 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
 </style>
-## :yellow_heart: COCOBACILOS :yellow_heart:
+font-family: 'Rampart One', cursive;
+### :yellow_heart: COCOBACILOS :yellow_heart:
+
+<html>
+  <head>
+    <link rel="stylesheet" href=https://fonts.googleapis.com/css2?family=Rampart+One&display=swap>
+    <style>
+      body {
+        font-size: 48px;
+      }
+      div:nth-child(1) {
+        font-family: 'Rampart One', cursive;
+      }
+      div:nth-child(2) {
+        font-family: 'Literata’, serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div>COCOBACILOS</div>
+    <div>¿Quiénes somos?</div>
+  </body>
+</html>
 
 
-///¿Quiénes somos?
+##
 
 CLUBERO ROCKSTAR | ¿QUÉ HACEMOS? | 10/10
 ------------ | ------------- | -------------

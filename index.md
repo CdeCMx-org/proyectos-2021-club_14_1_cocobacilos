@@ -1,15 +1,19 @@
 You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_14_1_cocobacilos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Rampart+One&display=swap" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+</style>
+##:yellow_heart:COCOBACILOS:yellow_heart:
+
+
+//
 ¿Quiénes somos?
 CLUBERO ROCKSTAR | ¿QUÉ HACEMOS? | 10/10
 ------------ | ------------- | -------------
 Hazel | Estudiante de Medicina, Rockstar en las enfermedades y nuestra líder :heart_eyes::sunglasses: | FALTA FOTO
 Marín | Estudiante de Bachillerato, el bebé Rockstar del team :sunglasses::speak_no_evil: | FALTA FOTO
 Jess | Estudiante de Ingeniería de Bioprocesos, aprendiendo a ser Rockstar en programación :speak_no_evil::nerd_face: | FALTA FOTO
-
+//
 
 ![Image of logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ27f9nyiS8nhQcV3Mi_6MEVf4lZjIHAPQ7UadKMq7euhj4QUeciqrpAeNFpCFIdr88U8&usqp=CAU)
 

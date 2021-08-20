@@ -19,24 +19,9 @@ _CLUBERO ROCKSTAR_ | _¿QUÉ HACEMOS?_ | _10/10_
 Para este proyecto elegimos un tema bastante interesante. ¿Quieres saber más? Sigue leyendo!! 
 
 
-<html>
-  <head>
-    <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Rampart+One&display=swap">
-    <style>
-      body {
-        font-family: 'Rampart One', cursive;
-        font-size: 20px;
-      }
-    </style>
-  </head>
-  <body>
-    <div>VIRUS DEL PAPILOMA HUMANO</div>
-  </body>
-</html>
 
 
-## Welcome to GitHub Pages HOLA A TODOS :)
+## VIRUS DEL PAPILOMA HUMANO: UN PROBLEMA DE SALUD PÚBLICA 
 
 
 metodología 

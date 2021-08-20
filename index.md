@@ -19,7 +19,7 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
   </body>
 </html>
 
-![Image of logo](https://www.instagram.com/p/CSzHXHYrE9J0Gp-BVsUIeG99Yu70eFvriiHQTc0/)
+![Image of logo](https://www.canva.com/design/DAEmGDh_xrM/P9isQfdpfHCCs5I0clRieg/view?utm_content=DAEmGDh_xrM&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 CLUBERO ROCKSTAR | ¿QUÉ HACEMOS? | 10/10
 ------------ | ------------- | -------------

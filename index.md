@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-
     <link rel="stylesheet" href=https://fonts.googleapis.com/css2?family=Rampart+One&display=swap>;
     <style>
       body {
-        font-size: 48px;
+        font-size: 25px;
       }
       div:nth-child(1) {
         font-family: 'Rampart One', cursive;

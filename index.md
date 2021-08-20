@@ -1,20 +1,11 @@
 //
 You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_14_1_cocobacilos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-
-<html>
-  <head>
-    <link rel="stylesheet" href=https://fonts.googleapis.com/css2?family=Rampart+One&display=swap>
-    <style>
-      body {
-        font-size: 30px;
-      }
-      div:nth-child(1) {
-        font-family: 'Rampart One', cursive;
-      }
-    </style>
 ##¿QUIÉNES SOMOS?
+
 ![Image of logo](https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png)
+
+<img src="https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png" width=200>
 
 
 CLUBERO ROCKSTAR | ¿QUÉ HACEMOS? | 10/10

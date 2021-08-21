@@ -1,11 +1,3 @@
-//
-You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_14_1_cocobacilos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
 # ¿QUIÉNES SOMOS?
 
 <img src="https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png" width=450>
@@ -83,7 +75,7 @@ Los *Cocobacilos* proponemos realizar un ensayo clínico, realizado en hombres y
 ¡Gracias por esta oportunidad!*
 
 # JESS
-*Clubes de Ciencia México han sido de gran importancia en mi vida, me han permitido ir eligiendo mi camino. En esta edición conocí compañeros e instructores que me recordaron el amor por la ciencia. ¡Gracias por permitirnos seguir aprendiendo! 
+*Clubes de Ciencia México han sido de gran importancia en mi vida, me han permitido ir eligiendo mi camino. En esta edición conocí compañeros e instructores que me recordaron el amor por la ciencia. ¡Gracias por permitirnos seguir aprendiendo!*
 
 
 # ¿QUIERES CONOCER MÁS SOBRE NUESTRA EXPERIENCIA? 

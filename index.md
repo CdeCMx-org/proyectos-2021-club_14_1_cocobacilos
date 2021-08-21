@@ -52,5 +52,5 @@ Los rangos de edades en los que se realizaron las pruebas fueron de niñas entre
 
 Situándonos en la **República Mexicana**, podemos notar que el sistema de vacunación en contra del Virus del Paplloma Humano sólo está destinado a las niñas de **quinto grado de primaria y niñas de 11 años no escolarizadas.
 
-<img src="https://user-images.githubusercontent.com/88797011/130307270-1bbc4270-80ee-47aa-b575-059a369d428f.jpg" width=400>
+<img src="https://www.pngitem.com/pimgs/m/8-82501_transparent-republica-mexicana-png-republica-mexicana-png-png.png" width=400>
 

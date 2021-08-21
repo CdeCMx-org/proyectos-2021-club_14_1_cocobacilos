@@ -68,3 +68,37 @@ El genoma del VPH se organiza en genes tardíos, que codifican proteínas de la 
 
 Actualmente **existen más de 100 tipos de virus del papiloma humano** identificados de cuales **al menos 14 de ellos son oncógenos**, siendo el tipo 16 el responsable en 50% de causar cáncer de cuello uterino a nivel mundial, aumentando en 70 por ciento cuando este tipo de cáncer se relaciona con el tipo 16 y 18.
 
+## METODOLOGÍA PROPUESTA
+
+Los *Cocobacilos* proponemos realizar un ensayo clínico, realizado en hombres y jóvenes que tengan condiciones de salud óptimas, con el propósito de observar, monitorear y analizar la eficacia de la vacuna en hombres. 
+
+## NUESTRA EXPERIENCIA!
+
+# HAZEL 
+*Me encantó estar en Clubes de Ciencia, aprendí mucho de mis instructores y compañeros. Jamás habia usado un foldscope y fue toda una experiencia, desde armarlo hasta aprender a usarlo. 
+¡Ademas hice amigos nuevos!*
+
+# MARÍN
+*Mi experiencia en clubes de ciencia, fue muy grata. Una gran oportunidad que se me presentó en mi vida, de la cual aprendí demasiadas cosas en diferentes campos de estudio. Aprendí de todos mis compañeros, e instructores; me motivé a superarme más como persona. Conocí el uso del foldscope, algo muy nuevo para mí; además que hice nuevos amigos. 
+¡Gracias por esta oportunidad!*
+
+# JESS
+*Clubes de Ciencia México han sido de gran importancia en mi vida, me han permitido ir eligiendo mi camino. En esta edición conocí compañeros e instructores que me recordaron el amor por la ciencia. ¡Gracias por permitirnos seguir aprendiendo! 
+
+
+# ¿QUIERES CONOCER MÁS SOBRE NUESTRA EXPERIENCIA? 
+
+Puedes revizar nuestro video aquí:
+[NUESTRO VIDEO COCOBACILOS](AQUI VA EL LINK HAZEL)
+
+
+Agradecemos nuevamente a Clubes de Ciencia México por esta oportunidad.
+
+A continuación la bibliografía consultada
+1. Papilomavirus humanos (PVH) y cáncer cervicouterino. (2020). Retrieved 19 August 2021, from https://www.who.int/es/news-room/fact-sheets/detail/human-papillomavirus-(hpv)-and-cervical-cancer
+1. HPV Vaccination and the Risk of Invasive Cervical Cancer | NEJM. (2021). New England Journal Of Medicine. Retrieved from https://www.nejm.org/doi/full/10.1056/NEJMoa
+Virus del papiloma humano (VPH): microbiología, relación con el cáncer de pene y características de la vacuna. (2021). Retrieved 20 August 2021, from https://revistamexicanadeurologia.org.mx
+1. Anónimo(2021). Retrieved 20 August 2021, from http://sil.gobernacion.gob.mx/Archiv
+1. Instituto Nacional de Salud Pública. Instituto Nacional de Salud Pública. Aportaciones a la salud de los mexicanos. Cuernavaca, México: INSP, 2017.
+1. https://www.gob.mx/salud/articulos/vacunas-contra-el-virus-del-papiloma-humano-vph 
+

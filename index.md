@@ -81,7 +81,7 @@ Los *Cocobacilos* proponemos realizar un ensayo clínico, realizado en hombres y
 # ¿QUIERES CONOCER MÁS SOBRE NUESTRA EXPERIENCIA? 
 
 Puedes revizar nuestro video aquí:
-[NUESTRO VIDEO COCOBACILOS](AQUI VA EL LINK HAZEL)
+[NUESTRO VIDEO COCOBACILOS](https://www.youtube.com/watch?v=5GZ_gBPPtIQ)
 
 
 Agradecemos nuevamente a Clubes de Ciencia México por esta oportunidad.

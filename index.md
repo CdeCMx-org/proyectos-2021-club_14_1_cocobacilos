@@ -59,3 +59,12 @@ Como **equipo** proponemos que la vacunación debe también abordar a **niños d
 
 <img src="https://media.tenor.com/images/7e7da13ad8efb418b510e436cc3f96f9/tenor.gif" width=400>
 
+## APRENDAMOS UN POCO MÁS SOBRE 
+## LA MICROBIOLOGÍA DEL VPH
+
+El genoma del VPH se organiza en genes tardíos, que codifican proteínas de la cápside viral y genes tempranos, que regulan el ciclo de replicación del virus. Entre estos últimos destacan E1 y E2, que modulan la replicación del ADN. El gen E2 regula, a su vez, la transcripción del ARN en proteínas, de ahí que se le considere el regulador maestro del proceso de integración viral en el epitelio del cuello del útero, lo que condiciona la expresión de los genes E6 y E7, que se comportan como oncogenes al inhibir a los genes supresores de tumores P53 y Rb.
+
+<img src="https://user-images.githubusercontent.com/88797011/130307536-105513f3-5985-4137-b30f-d9ff983377bf.png" width=500>
+
+Actualmente **existen más de 100 tipos de virus del papiloma humano** identificados de cuales **al menos 14 de ellos son oncógenos**, siendo el tipo 16 el responsable en 50% de causar cáncer de cuello uterino a nivel mundial, aumentando en 70 por ciento cuando este tipo de cáncer se relaciona con el tipo 16 y 18.
+

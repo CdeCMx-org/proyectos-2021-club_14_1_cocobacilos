@@ -59,8 +59,7 @@ Como **equipo** proponemos que la vacunación debe también abordar a **niños d
 
 <img src="https://media.tenor.com/images/7e7da13ad8efb418b510e436cc3f96f9/tenor.gif" width=400>
 
-## APRENDAMOS UN POCO MÁS SOBRE 
-## LA MICROBIOLOGÍA DEL VPH
+## APRENDAMOS UN POCO MÁS SOBRE LA MICROBIOLOGÍA DEL VPH
 
 El genoma del VPH se organiza en genes tardíos, que codifican proteínas de la cápside viral y genes tempranos, que regulan el ciclo de replicación del virus. Entre estos últimos destacan E1 y E2, que modulan la replicación del ADN. El gen E2 regula, a su vez, la transcripción del ARN en proteínas, de ahí que se le considere el regulador maestro del proceso de integración viral en el epitelio del cuello del útero, lo que condiciona la expresión de los genes E6 y E7, que se comportan como oncogenes al inhibir a los genes supresores de tumores P53 y Rb.
 

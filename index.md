@@ -11,11 +11,11 @@ As Kanye West said:
 <img src="https://user-images.githubusercontent.com/88797011/130245685-a04a1e76-df88-42cf-b3c1-eb4a89a0ed06.png" width=450>
 
 
-_CLUBERO ROCKSTAR_ | _¿QUÉ HACEMOS?_ | _10/10_
+__CLUBERO ROCKSTAR__ | __¿QUÉ HACEMOS?__ | __10/10__
 ------------ | ------------- | -------------
-*Hazel* | Estudiante de Medicina, Rockstar en las enfermedades y nuestra líder  | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-medical-19.png" width=100>
-*Marín* | Estudiante de Bachillerato, el bebé Rockstar del team  | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-13.png" width=100>
-*Jess* | Estudiante de Ingeniería de Bioprocesos, aprendiendo a ser Rockstar en programación | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-18.png" width=100>
+**Hazel** | Estudiante de Medicina, Rockstar en las enfermedades y nuestra líder  | <img src="https://user-images.githubusercontent.com/88797011/130306714-2ebbfe18-808a-4b3f-91d5-a13b723c9a3e.png" width=100>
+**Marín** | Estudiante de Bachillerato, el bebé Rockstar del team  | <img src="https://user-images.githubusercontent.com/88797011/130306753-f9340338-6511-4597-bdf9-678ca8cd1da3.png" width=100>
+**Jess** | Estudiante de Ingeniería de Bioprocesos, aprendiendo a ser Rockstar en programación | <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/96/iconmonstr-school-18.png" width=100>
 
 
 ## Estamos encantados de poder compartir esta edición de Clubes de Ciencia México 2021 

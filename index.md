@@ -54,3 +54,8 @@ Situándonos en la **República Mexicana**, podemos notar que el sistema de vacu
 
 <img src="https://www.pngitem.com/pimgs/m/8-82501_transparent-republica-mexicana-png-republica-mexicana-png-png.png" width=400>
 
+##¿QUÉ OPINAN LOS COCOBACILOS?
+Como **equipo** proponemos que la vacunación debe también abordar a **niños de esta misma edad, ya que tanto hombres y mujeres son propensos a ser afectados por estos tipos de VPH.** A las mujeres los tipos de VPH más agresivos suelen comúnmente afectar con cáncer cervicouterino y a los hombres con cánceres tales como de boca, pene y ano; demostrando así que ambas partes de la población son vulnerables a ser atacados y dañados por algunos tipos de VPH. 
+
+<img src="https://media.tenor.com/images/7e7da13ad8efb418b510e436cc3f96f9/tenor.gif" width=400>
+

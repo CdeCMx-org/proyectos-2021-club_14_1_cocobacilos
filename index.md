@@ -46,7 +46,7 @@ En México, de acuerdo con datos de Globocan,
 
 <img src="https://drgermancastelazo.com/wp-content/uploads/2019/05/shutterstock_218163580-1024x1024.jpg" width=400>
 
-####¿QUÉ INFORMACIÓN SE OBTIENE ACERCA DE LAS VACUNAS EN CONTRA DE ALGUNOS TIPOS DEL VPH?
+### ¿QUÉ INFORMACIÓN SE OBTIENE ACERCA DE LAS VACUNAS EN CONTRA DE ALGUNOS TIPOS DEL VPH?
 La investigación de las vacunas tomó un período comprendido entre los 8 y 10 años de investigación y pruebas; fue en el 2006 cuando se aprobó la primera vacuna contra el VPH llamada “cérvix”, diseñada a partir de fragmentos del virus denominados “VLP”. 
 Los rangos de edades en los que se realizaron las pruebas fueron de niñas entre los 9 años hasta mujeres de 45 años; dando como resultado que la efectividad de las vacunas era mucho mayor si se aplicaba a niñas entre los 11 y 12 años. A su vez, se aplicó esta vacuna a niños y hombres jóvenes de 9 a 26 años de edad; demostrando que es aún más efectiva en hombres vacunados en el periodo de 9 a 12 años de edad.
 
